@@ -8,18 +8,17 @@ Pod::Spec.new do |s|
 
   s.ios.deployment_target = '8.0'
 
-  s.description  = <<-DESC
-                   DESC
+  s.description  = "jiaforios@163.com"
 
   s.homepage     = "https://github.com/jiaforios/3dScrollview"
 
 
-  s.license      = "MIT (example)"
+  s.license      = "MIT"
 
 
   s.author             = { "jiaforios" => "jiaforios@163.com" }
 
-  s.source       = { :git => "http://EXAMPLE/3dScrollview.git", :tag => "#{s.version}" }
+  s.source       = { :git => "https://github.com/jiaforios/3dScrollview", :tag => "#{s.version}" }
 
 
   s.source_files  = "3dScrollview", "3dScrollview/3dScrollview/*.{h,m}"
