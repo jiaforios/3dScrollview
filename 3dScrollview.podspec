@@ -6,7 +6,7 @@ Pod::Spec.new do |s|
   s.summary      = "A short description of 3dScrollview."
   s.platform     = :ios
 
-  s.ios.deployment_target = '8.0'
+  s.ios.deployment_target = '9.0'
 
   s.description  = "jiaforios@163.com"
 
